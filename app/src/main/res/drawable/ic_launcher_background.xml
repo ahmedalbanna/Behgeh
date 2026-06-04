@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Solid Burgundy Luxury BG -->
+    <path
+        android:fillColor="#800020"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Fine Diagonal Golden Lines of Celebration Grid -->
+    <path
+        android:pathData="M-54,54 L54,-54 M0,108 L108,0 M54,162 L162,54"
+        android:strokeWidth="1.2"
+        android:strokeColor="#1AD4AF37" />
+    <path
+        android:pathData="M-54,54 L54,162 M0,0 L108,108 M54,-54 L162,54"
+        android:strokeWidth="1.2"
+        android:strokeColor="#1AD4AF37" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Behgeh - بهجة",
+  "description": "منصة بهجة المتكاملة لحجز قاعات ومناسبات الأفراع بدعم الذكاء الاصطناعي وإدارة الخدمات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
